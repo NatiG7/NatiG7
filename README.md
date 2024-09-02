@@ -16,15 +16,17 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 
 ### Programming Languages
 
+![Language-HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![Language-CSS](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![Language-Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![Language-JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![Language-React](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Language-Node.js](https://img.shields.io/badge/Language-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=8CC84B)
+![Language-React](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Language-Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![Language-HDL](https://img.shields.io/badge/Language-HDL-informational?style=flat&logo=generic-technology&logoColor=white&color=00BFAE) <!-- No specific logo, using a generic tech logo -->
 ![Language-Assembly](https://img.shields.io/badge/Language-Assembly-informational?style=flat&logo=generic-technology&logoColor=white&color=FF7F0E) <!-- No specific logo, using a generic tech logo -->
-![Language-HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
-![Language-CSS](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![Language-C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
+
 
 ### Tools & Technologies
 
