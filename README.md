@@ -1,7 +1,9 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 # Hello, folks!
-
+<img src="https://komarev.com/ghpvc/?username=NatiG7&color=brightgreen" alt="watching_count" /> <!-- -->
+![GitHub Stars](https://img.shields.io/github/stars/NatiG7?style=social) 
+![GitHub Followers](https://img.shields.io/github/followers/NatiG7?style=social) \
 My name is Nati Goral and I'm a software developer. \
 I'm from Israel, and in 2023 I enrolled to the Technion PET Program. \
 I mainly enjoy automating tasks and am interested in cybersecurity, as well as gaining certifications!
@@ -51,8 +53,10 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 ![NDG Linux Essentials](https://img.shields.io/badge/NDG-Linux_Essentials-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Cisco Cybersecurity Essentials](https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-informational?style=flat&logo=cisco&logoColor=white&color=0078D6)
 
+## Just for fun
 
-
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img src="https://widgetbite.com/stats/NatiG7" align="center" alt="watching_count" />
 
 ## &#x1f4c8; GitHub Stats
 
