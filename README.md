@@ -28,6 +28,8 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 ![Language-HDL](https://img.shields.io/badge/Language-HDL-informational?style=flat&logo=generic-technology&logoColor=white&color=00BFAE) <!-- No specific logo, using a generic tech logo -->
 ![Language-Assembly](https://img.shields.io/badge/Language-Assembly-informational?style=flat&logo=generic-technology&logoColor=white&color=FF7F0E) <!-- No specific logo, using a generic tech logo -->
 ![Language-C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=powershell&logoColor=white)
+
 
 
 ### Tools & Technologies
