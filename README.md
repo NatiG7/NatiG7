@@ -56,7 +56,8 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Scientific_Computing_with_Python_Certification-informational?style=flat&logo=freecodecamp&logoColor=white&color=0A0A23)](https://www.freecodecamp.org/certification/NatiG7/scientific-computing-with-python)
 ![NDG Linux Essentials](https://img.shields.io/badge/NDG-Linux_Essentials-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Cisco Cybersecurity Essentials](https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-informational?style=flat&logo=cisco&logoColor=white&color=0078D6)
-[![Cisco Networking Essentials](https://img.shields.io/badge/Cisco_Networking_Essentials-Certification-informational?style=flat&logo=cisco&logoColor=white&color=0A0A23)](https://www.freecodecamp.org/certification/NatiG7/cisco-networking-essentials)
+![Cisco Networking Essentials](https://img.shields.io/badge/Cisco-Networking_Essentials-informational?style=flat&logo=cisco&logoColor=white&color=0078D6)
+
 
 
 ## Just for fun
