@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/NatiG7?style=social) 
 ![GitHub Followers](https://img.shields.io/github/followers/NatiG7?style=social) \
 My name is Nati Goral and I'm a software developer. \
-I'm from Israel, and in 2023 I enrolled to the Technion PET Program. \
+I'm from Israel, and in 2023 I enrolled to the Technion software practical engineering program. \
 I mainly enjoy automating tasks and am interested in cybersecurity, as well as gaining certifications!
 
 ## 🔧 Technologies & Tools
