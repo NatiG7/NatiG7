@@ -16,11 +16,17 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 ![OS-Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![OS-Kali_Linux](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=5F2A4C)
 
+### Mobile
+
+![Platform-Android](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=3DDC84)
+
 ### Programming Languages
 
 ![Language-HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![Language-CSS](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![Language-XML](https://img.shields.io/badge/Language-XML-informational?style=flat&logo=xml&logoColor=white&color=E34F26)
 ![Language-Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+![Language-Kotlin](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![Language-JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![Language-Node.js](https://img.shields.io/badge/Language-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=8CC84B)
 ![Language-React](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
@@ -28,15 +34,17 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 ![Language-HDL](https://img.shields.io/badge/Language-HDL-informational?style=flat&logo=generic-technology&logoColor=white&color=00BFAE) <!-- No specific logo, using a generic tech logo -->
 ![Language-Assembly](https://img.shields.io/badge/Language-Assembly-informational?style=flat&logo=generic-technology&logoColor=white&color=FF7F0E) <!-- No specific logo, using a generic tech logo -->
 ![Language-C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
-![PowerShell](https://img.shields.io/badge/Language-PowerShell-blue?logo=powershell&logoColor=white)
-
-
+![Language-PowerShell](https://img.shields.io/badge/Language-PowerShell-blue?logo=powershell&logoColor=white)
+![Language-CSharp](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120)
 
 ### Tools & Technologies
 
 ![Tools-Cisco_CLI](https://img.shields.io/badge/Tools-Cisco_CLI-informational?style=flat&logo=cisco&logoColor=white&color=0078D6)
 ![Tools-PacketTracer](https://img.shields.io/badge/Tools-PacketTracer-informational?style=flat&logo=cisco&logoColor=white&color=0078D6) <!-- Using Cisco logo -->
-![Tools-SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![Database-SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![Database-MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![Database-PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![Tools-Gradle](https://img.shields.io/badge/Tool-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=02303A)
 ![Tools-Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![Bash Scripting](https://img.shields.io/badge/Script-Bash_Scripting-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![Web App Exploit](https://img.shields.io/badge/Security-Web_App_Exploit-informational?style=flat&logo=security&logoColor=white&color=FF4500)
@@ -46,8 +54,12 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 ![Tool-Nmap](https://img.shields.io/badge/Tool-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=blue)
 ![Tool-Burp_Suite](https://img.shields.io/badge/Tool-Burp_Suite-informational?style=flat&logo=burp-suite&logoColor=white&color=7B5C5C) <!-- Using Burp Suite logo -->
 ![Tool-Ghidra](https://img.shields.io/badge/Tool-Ghidra-informational?style=flat&logo=ghidra&logoColor=white&color=FF9D00) <!-- Using Ghidra logo -->
+![Tool-Gobuster](https://img.shields.io/badge/Tool-Gobuster-informational?style=flat&logo=generic-technology&logoColor=white&color=FF5733)
 ![Tool-Hashcat](https://img.shields.io/badge/Tool-Hashcat-informational?style=flat&logo=hashcat&logoColor=white&color=FF6F61) <!-- Using Hashcat logo -->
+![Tool-msfc](https://img.shields.io/badge/Tool-Metasploit-informational?style=flat&logo=metasploit&logoColor=white&color=000000)
 ![Tool-John_the_Ripper](https://img.shields.io/badge/Tool-John_the_Ripper-informational?style=flat&logo=john-the-ripper&logoColor=white&color=FF0A00) <!-- Using John the Ripper logo -->
+![Technology-PT](https://img.shields.io/badge/Security-Penetration%20Testing-informational?style=flat&logo=generic-technology&logoColor=white&color=FF5733)
+![Technology-Recon](https://img.shields.io/badge/Security-Reconnaissance-informational?style=flat&logo=generic-technology&logoColor=white&color=6A4DFF)
 
 ### Certifications
 
