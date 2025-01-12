@@ -39,6 +39,8 @@ I mainly enjoy automating tasks and am interested in cybersecurity, as well as g
 
 ### Tools & Technologies
 
+![Testing-UnitTest](https://img.shields.io/badge/Testing-UnitTest-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![Testing-MSTest](https://img.shields.io/badge/Testing-MSTest-informational?style=flat&logo=microsoft&logoColor=white&color=0078D6)
 ![Tools-Cisco_CLI](https://img.shields.io/badge/Tools-Cisco_CLI-informational?style=flat&logo=cisco&logoColor=white&color=0078D6)
 ![Tools-PacketTracer](https://img.shields.io/badge/Tools-PacketTracer-informational?style=flat&logo=cisco&logoColor=white&color=0078D6) <!-- Using Cisco logo -->
 ![Database-SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
